@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "221936393373",
+    "firebase_url": "https://bdpubg-aa1ca-default-rtdb.firebaseio.com",
+    "project_id": "bdpubg-aa1ca",
+    "storage_bucket": "bdpubg-aa1ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221936393373:android:ab7131a0b40612911a4874",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.firebasepubg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221936393373-dmq91b7qgledvc8sn2ooqpcasd5nsj03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.utng.firebasepubg",
+            "certificate_hash": "17ac58f5d52da7c17572e27428ea56940aaff105"
+          }
+        },
+        {
+          "client_id": "221936393373-di0em2ia4tjhq6vpqp8rqjnb2tphnb9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5RFkoye8iNevTGHtQQvzPZbxtPvzpFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221936393373-di0em2ia4tjhq6vpqp8rqjnb2tphnb9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
