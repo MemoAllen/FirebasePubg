@@ -1,3 +1,3 @@
 # FirebasePubg
-##Autor:
-##José Guillermo Balderas Zamora
+#Autor:
+#José Guillermo Balderas Zamora
